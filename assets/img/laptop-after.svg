@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Laptop image placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E5FAFD"/><stop offset="1" stop-color="#C8F2F8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <rect x="18" y="18" width="764" height="564" rx="26" fill="none" stroke="#067F8C" stroke-width="4" stroke-dasharray="18 14" stroke-linecap="round"/>
+  <g fill="none" stroke="#067F8C" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" transform="translate(400, 260)">
+    <rect x="-120" y="-80" width="240" height="130" rx="10"/><path d="M-160 80h320"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#0A2540">AFTER</text>
+  <text x="400" y="498" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#124A80">Laptop image placeholder</text>
+</svg>

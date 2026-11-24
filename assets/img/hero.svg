@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Replace with a technician photo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8F2FB"/><stop offset="1" stop-color="#D2E7F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="864" rx="26" fill="none" stroke="#124A80" stroke-width="4" stroke-dasharray="18 14" stroke-linecap="round"/>
+  <g fill="none" stroke="#124A80" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" transform="translate(600, 410)">
+    <rect x="-120" y="-80" width="240" height="130" rx="10"/><path d="M-160 80h320"/>
+  </g>
+  <text x="600" y="600" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#0A2540">HERO IMAGE PLACEHOLDER</text>
+  <text x="600" y="648" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#124A80">Replace with a technician photo</text>
+</svg>
